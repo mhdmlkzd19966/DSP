@@ -20,6 +20,8 @@ The repository is structured as follows:
 
 articles/
    Real‑Time Power Quality Event Monitoring System Using Digital Signal.pdf - First original article
+
+LIKK OF VIDEO PRESENTATION : https://drive.google.com/file/d/1BiB-Wsc1UC8L7F8gSWQ5V4rfof_Zsiq2/view?usp=drive_link
    
 presentations/
    Mahdi Malekzadeh.pptx - PowerPoint presentation
